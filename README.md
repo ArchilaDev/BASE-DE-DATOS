@@ -163,8 +163,11 @@ SET: Un [SET] es un objeto de cadena que puede tener cero o más valores, cada u
 Por ejemplo, una columna especificada como SET('one', 'two') NOT NULL , puede tener cualquiera de estos valores:
 -------
 ''
+
 'one'
+
 'two'
+
 'one,two'
 -------
 
